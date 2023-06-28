@@ -1,0 +1,4 @@
+pyglet == 1.5.24
+datetime
+pypiwin32
+ffmpeg
